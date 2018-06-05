@@ -1,4 +1,4 @@
 <?php
-header("Location: https://natabletennis.com/");
+header("Location: http://www.greatamericanfarmtables.com/products.html");
 die();
 ?>
